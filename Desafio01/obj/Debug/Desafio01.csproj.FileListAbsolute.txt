@@ -1,0 +1,7 @@
+C:\Users\rdmv\Documents\CSharp\Desafio01\bin\Debug\Desafio01.exe.config
+C:\Users\rdmv\Documents\CSharp\Desafio01\bin\Debug\Desafio01.exe
+C:\Users\rdmv\Documents\CSharp\Desafio01\bin\Debug\Desafio01.pdb
+C:\Users\rdmv\Documents\CSharp\Desafio01\obj\Debug\Desafio01.csprojAssemblyReference.cache
+C:\Users\rdmv\Documents\CSharp\Desafio01\obj\Debug\Desafio01.csproj.CoreCompileInputs.cache
+C:\Users\rdmv\Documents\CSharp\Desafio01\obj\Debug\Desafio01.exe
+C:\Users\rdmv\Documents\CSharp\Desafio01\obj\Debug\Desafio01.pdb
