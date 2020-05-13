@@ -8,6 +8,8 @@ namespace Desafio01
 {
     interface IFuncionario
     {
-        double Bonificacao();
+        double Bonificacao(double salario);
+
+        int CalculaIdade(DateTime nascimento);
     }
 }

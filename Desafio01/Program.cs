@@ -13,9 +13,9 @@ namespace Desafio01
     {
         static void Main(string[] args)
         {
-            Service service = new Service();
+            IniciaCalculo inicia = new IniciaCalculo();
 
-            service.GetService(true);  
+            inicia.Inicia(true);  
         }
     }
 }

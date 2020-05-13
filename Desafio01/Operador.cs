@@ -16,10 +16,10 @@ namespace Desafio01
         {
         }
 
-        public override double Bonificacao()
+        public override double Bonificacao(double salario)
         {
-            double variavel = 0.05;
-            return (Salario + (Salario * variavel));
+            double variavel = 0.10;
+            return (salario + (salario * variavel));
         }
     }
 }
